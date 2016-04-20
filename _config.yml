@@ -1,0 +1,14 @@
+layout_spectrum: 0.3203543573617935
+typography_spectrum: 0.8158791521564126
+color:
+  brandStrength: 0.2637567347846925
+  lightness: 0.603951663710177
+  saturation: 0.16252244752831757
+  rhythmicContrast: 0.42632454354315996
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: GridTeam
